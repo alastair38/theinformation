@@ -8,7 +8,7 @@ sections:
   path: data
   label: Data
   create: all
-  match: "*.toml"
+  match: " '**/*'"
   new_doc_ext: toml
 - type: directory
   path: content/communications
