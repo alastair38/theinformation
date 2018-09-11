@@ -6,4 +6,4 @@ pre:
 ---
 
 
-Welcome to the fuyture
+Welcome to the future
