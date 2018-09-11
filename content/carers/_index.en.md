@@ -1,11 +1,9 @@
 ---
 title: Carers Checklist
 weight: 5
-pre:
+pre: 
 
 ---
-
-
 The carers checklist (*Laura's List*) was originally written by Katharyn Barnett who, following her mother's dementia diagnosis in 1995, learned to identify the right support so that she could access it as and when needed.
 
 > This list is not exhaustive but it’s a checklist that I put together in the hope that
