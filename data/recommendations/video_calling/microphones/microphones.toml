@@ -1,0 +1,11 @@
+product_type = "Microphones"
+
+[[product]]
+name = "Rode Videmicro"
+price = "£89.74"
+url = "https://www.amazon.co.uk/Logitech-C920-Pro-1080p-Webcam/dp/B006A2Q81M/ref=sr_1_1?ie=UTF8&qid=1529498709&sr=8-1&keywords=c920"
+
+[[product]]
+name = "Newer Condenser"
+price = "£29.99"
+url = "https://www.amazon.co.uk/Logitech-C920-Pro-1080p-Webcam/dp/B006A2Q81M/ref=sr_1_1?ie=UTF8&qid=1529498709&sr=8-1&keywords=c920"

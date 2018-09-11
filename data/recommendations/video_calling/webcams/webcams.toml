@@ -1,0 +1,11 @@
+product_type = "Webcams"
+
+[[product]]
+name = "Logitech c920"
+price = "£19.74"
+url = "https://www.amazon.co.uk/Logitech-C920-Pro-1080p-Webcam/dp/B006A2Q81M/ref=sr_1_1?ie=UTF8&qid=1529498709&sr=8-1&keywords=c920"
+
+[[product]]
+name = "Logitech c922"
+price = "£29.99"
+url = "https://www.amazon.co.uk/Logitech-C920-Pro-1080p-Webcam/dp/B006A2Q81M/ref=sr_1_1?ie=UTF8&qid=1529498709&sr=8-1&keywords=c920"
