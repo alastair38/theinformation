@@ -5,11 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: data/recommendations/video_calling
+  path: data
   label: Data
   create: all
   match: "*.toml"
-  new_doc_ext: ".toml"
+  new_doc_ext: toml
 - type: directory
   path: content/communications
   label: Communications
